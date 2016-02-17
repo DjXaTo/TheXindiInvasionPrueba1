@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<navigationModel
+    ns="http://schemas.android.com?import=com.android.tools.idea.editors.navigation.model.*">
+    <locations class="java.util.ArrayList">
+        <statePointEntry>
+            <state class="com.android.tools.idea.editors.navigation.model.ActivityState"
+                className="com.hipotenocha.ilm.thexindiinvasion.Juego" />
+            <point x="1920" y="640" />
+        </statePointEntry>
+        <statePointEntry>
+            <state class="com.android.tools.idea.editors.navigation.model.ActivityState"
+                className="com.hipotenocha.ilm.thexindiinvasion.MenuPrincipal" />
+            <point x="480" y="160" />
+        </statePointEntry>
+        <statePointEntry>
+            <state class="com.android.tools.idea.editors.navigation.model.MenuState"
+                xmlResourceName="menu_actividad_juego" />
+            <point x="3028" y="1440" />
+        </statePointEntry>
+        <statePointEntry>
+            <state class="com.android.tools.idea.editors.navigation.model.ActivityState"
+                className="com.hipotenocha.ilm.thexindiinvasion.Nivel1" />
+            <point x="1760" y="960" />
+        </statePointEntry>
+        <statePointEntry>
+            <state class="com.android.tools.idea.editors.navigation.model.MenuState"
+                xmlResourceName="menu_menu_principal" />
+            <point x="1760" y="160" />
+        </statePointEntry>
+        <statePointEntry>
+            <state class="com.android.tools.idea.editors.navigation.model.ActivityState"
+                className="com.hipotenocha.ilm.thexindiinvasion.ActividadJuego" />
+            <point x="1760" y="1440" />
+        </statePointEntry>
+    </locations>
+</navigationModel>
